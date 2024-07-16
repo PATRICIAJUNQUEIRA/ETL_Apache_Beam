@@ -46,6 +46,7 @@ O objetivo deste projeto é integrar, processar e analisar grandes volumes de da
 
 ## Contato
 Patrícia Miranda e Silva - patricia.junqueira11@gmail.com
+LinkedIn - www.linkedin.com/in/patrícia-miranda-silva
 
 
 
